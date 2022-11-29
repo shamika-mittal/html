@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Demonstration and Implementation of NAVIGATION DESIGN</h1>
+
+<p>The type of design used depends on the requirements of your product, i.e 
+the number of options you have or how you want to represent your data </p>
+
+<a target="_blank" class="fcc-btn" href="https://www.freecodecamp.org/">
+Less than 5 Options</a> 
+
+<style>.fcc-btn {
+  background-color: #199319;
+  color: white;
+}
+
+.fcc-btn {
+  background-color: #199319;
+  color: white;
+  padding: 15px 25px;
+}
+
+.fcc-btn {
+  background-color: #199319;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+}
+</style>
+
+</body>
+</html>
